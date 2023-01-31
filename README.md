@@ -5,6 +5,6 @@
 
 Página voltada para apresentação das modalidades de doação que podem ser feitas no meu canal de [stream](https://www.twitch.tv/uuyzs).
 
-[Fazer Doação!](https://lz-dvlp.github.io/Donations/)
+[Fazer Doação!](https://luizefz.github.io/Donations/)
 
 Vlw!! 
